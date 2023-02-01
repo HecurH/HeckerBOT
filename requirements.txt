@@ -1,9 +1,0 @@
-Pillow
-text-to-image
-disnake
-discordspy
-discord.py
-qrcode
-topggpy
-requests
-numba
